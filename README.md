@@ -10,7 +10,7 @@ Features:
 Usage:
 1. Clone the repository
 2. Install the required dependencies mentioned above.
-3. Run the main script: python gesture_control.py
+3. Run the main script: python volBrtnessControl.py
 4. Position your hand in front of the camera and perform the predefined gestures to control volume and brightness.
 5. Observe the real-time feedback and enjoy the hands-free control experience.
 
