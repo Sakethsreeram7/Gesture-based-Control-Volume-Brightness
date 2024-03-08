@@ -8,9 +8,12 @@ Features:
 - Flexibility and Customization: The project offers the flexibility to define and customize hand gestures for different actions or even extend it to support additional functionalities.
 
 Usage:
-1. Clone the repository
-2. Install the required dependencies mentioned above.
-3. Run the main script: python volBrtnessControl.py
-4. Position your hand in front of the camera and perform the predefined gestures to control volume and brightness.
-5. Observe the real-time feedback and enjoy the hands-free control experience.
+1. Clone the repository.
+2. Install the required dependencies:
+
+     `pip install -r requirements.txt`
+   
+4. Run the main script: python volBrtnessControl.py
+5. Position your hand in front of the camera and perform the predefined gestures to control volume and brightness.
+6. Observe the real-time feedback and enjoy the hands-free control experience.
 
